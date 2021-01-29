@@ -1,0 +1,36 @@
+.judul {
+    text-align: center;
+    color: red;
+    background-color: black;
+    margin-top: 0;
+    padding: 10px;
+}
+.judul h1 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("./img/chun-lo-wolf.jpg");
+    background-size: 100%;
+}
+
+.box-menu {
+    padding: 3%;
+    margin: 10%;
+    text-align: center;
+    align-content: center;
+    background-color: white;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    color: red;
+    padding: 55px 82px;
+    text-align: center;
+    display: inline-block;
+    font-size: 26px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
